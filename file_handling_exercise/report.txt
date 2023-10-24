@@ -1,0 +1,15 @@
+.7z
+- - - file_handling_exercise.7z
+.csv
+- - - test.csv
+.py
+- - - dicrectory_traversal_recursive.py
+- - - directory_traversal.py
+- - - even_lines.py
+- - - file_manipulator.py
+- - - line_numbers.py
+- - - test.py
+.txt
+- - - output.txt
+- - - report.txt
+- - - text.txt
